@@ -7,3 +7,13 @@ let filledString = "abc"
 let boolean = Boolean(filledString)
 console.log(boolean)
 console.log(typeof boolean)
+
+console.log(1 + 1)
+console.log(1 + "1")
+console.log("1" + 1)
+console.log(1 + 1 + "1")
+console.log("1" + 1 + 1)
+
+console.log("Hey" + " Uzair")
+
+console.log()
