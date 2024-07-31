@@ -8,3 +8,5 @@ console.log(undefined >= 0)
 
 console.log(1 >= 0) //simple conversions
 console.log(1 < 2)
+
+console.log("1" === "1") //checks datatype too
